@@ -5,7 +5,7 @@
   <groupId>com.fyld.aiot.igarden</groupId>
   <artifactId>library-config</artifactId>
   <version>0.0.1</version>
-  <packaging>pom</packaging>
+  <packaging>aar</packaging>
   <name>library-bluetooth</name>
   <description>配网绑定设备模块库</description>
 </project>
